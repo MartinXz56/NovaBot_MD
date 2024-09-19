@@ -10,7 +10,7 @@ global.premium = []
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.botname = "𝐁𝐨𝐭-𝐌𝐃"
 global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
 global.vs = '1.1.8'
 
